@@ -1,8 +1,12 @@
-Github
+Mateus' Github
 
-Arquivo da aula de Git e Github para iniciantes
-
-Este arquivo serve para serem feitos testes no git e github
-
-versao 2.0
-
+- 👋 Hi, I’m @Sopranzi
+Hi everyone, I'm Mateus Neves Sopranzi, I'm 29. I'm live in São Paulo, SP. I'm Control and Automation Engineer and actually i'm coursing analysis and systems development in Fatec Ipiranga.
+- 👀 I’m interested in ...
+I'm interested in learning as many programming languages ​​as possible and sharing my codes with everyone who wants to learn them too. 
+- 🌱 I’m currently learning ...
+I'm currently learning HTML5 and Java.
+- 💞️ I’m looking to collaborate on ...
+I'm looking to colaborate with my codes and my knowedge to all that want to learn.
+- 📫 How to reach me ...
+You can reach me by email on [mateussopranzi@gmail.com]# Git-Sopranzi
